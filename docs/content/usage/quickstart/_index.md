@@ -2,21 +2,32 @@
 draft: false
 title: Quickstart Guide
 linktitle: Quickstart
-description: Quickstart Guidance for the Hennepin Verified Modules (AVM) program
+description: Quickstart Guidance for the Hennepin Verified Modules (HVM) program
 ---
 
-This QuickStart guide offers step-by-step instructions for integrating Hennepin Verified Modules (AVM) into your solutions. It includes the initial setup, essential tools, and configurations required to deploy and manage your Azure resources efficiently using AVM.
+This QuickStart guide offers step-by-step instructions for integrating Hennepin Verified Modules (HVM) into your solutions. It includes the initial setup, essential tools, and configurations required to deploy and manage your resources efficiently using HVM.
 
-The AVM Key Vault resource module, used as an example in this chapter, simplifies the deployment and management of Azure Key Vaults, ensuring secure storage and access to your secrets, keys, and certificates.
+## Using Hennepin Verified Modules
 
-## Leveraging Hennepin Verified Modules
+Using HVM ensures that your infrastructure-as-code deployments follow Hennepin County's best practices and guidelines, providing a consistent and reliable foundation for your cloud solutions. HVM helps accelerate your development process, reduce the risk of misconfigurations, and enhance the security and compliance of your applications.
 
-Using AVM ensures that your infrastructure-as-code deployments follow Microsoft's best practices and guidelines, providing a consistent and reliable foundation for your cloud solutions. AVM helps accelerate your development process, reduce the risk of misconfigurations, and enhance the security and compliance of your applications.
+## Default values
 
-## Using default values
-
-The default values provided by AVM are generally safe, as they follow best practices and ensure a secure and reliable setup. However, it is important to review these values to ensure they meet your specific requirements and compliance needs. Customizing the default values may be necessary to align with your organization's policies and the specific needs of your solution.
+Where provided, default values should be generally safe, following best practices and ensuring a secure and reliable setup. However, it is important to review these values to ensure they meet your specific requirements and compliance needs. Customizing the default values may be necessary to align with the specific needs of your solution.
 
 ## Exploring examples and module features
 
-You can find examples and detailed documentation for each AVM module in their respective code repository's `README.MD` file, which details features, input parameters, and outputs. The module's documentation also provides comprehensive usage examples, covering various scenarios and configurations. Additionally, you can explore the module's source code repository. This information will help you understand the full capabilities of the module and how to effectively integrate it into your solutions.
+You can find examples and detailed documentation for each HVM module in their respective code repository's `README.MD` file, which details inputs, examples, etc.
+
+## Development environment setup
+
+Required software includes:
+
+- Terraform (> v1.6.0)
+- tflint
+- terraform-docs
+- python - for pre-commit
+- git
+- (optional) azure cli
+
+Most of this software is available in the software center.
