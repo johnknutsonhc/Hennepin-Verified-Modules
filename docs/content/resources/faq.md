@@ -1,7 +1,7 @@
 ---
 title: Frequently Asked Questions (FAQ)
 linktitle: FAQ
-aliases: ['/faq']
+aliases: ["/faq"]
 description: Frequently Asked Questions (FAQ) for the Hennepin Verified Modules (AVM) program
 ---
 
@@ -15,7 +15,7 @@ Got an unanswered question? Create a [GitHub Issue](https://github.com/johnknuts
 
 ### When will we have a library that has a "usable" stand? Not complete, but the most important resources?
 
-- **Bicep**: AVM evolved all modules of [CARML](https://aka.ms/CARML) (Common Azure Resource Module Library) for its Bicep resource module collection (see [here]({{% siteparam base %}}/resources/faq#carml-to-avm-evolution)). To initially populate AVM with Bicep resource modules, all  existing CARML modules have been migrated to AVM. Resource modules can now be directly leveraged to support the IaC needs of a wide variety of Azure workloads. Pattern modules can also be developed building on these resource modules.
+- **Bicep**: AVM evolved all modules of [CARML](https://aka.ms/CARML) (Common Azure Resource Module Library) for its Bicep resource module collection (see [here]({{% siteparam base %}}/resources/faq#carml-to-avm-evolution)). To initially populate AVM with Bicep resource modules, all existing CARML modules have been migrated to AVM. Resource modules can now be directly leveraged to support the IaC needs of a wide variety of Azure workloads. Pattern modules can also be developed building on these resource modules.
 - **Terraform**: In case of Terraform, there were significantly less modules available in [TFVM](https://aka.ms/TFVM) (Terraform Verified Modules Library) compared to CARML, hence, most Terraform modules have been and are being built as people volunteer to be module owners. We've been prioritizing the development of the Terraform modules based on our learnings from former initiatives, as well as customer demand - i.e., which ones are the most frequently deployed modules.
 
 ---
@@ -33,7 +33,7 @@ AVM is a straight-line evolution of CARML & TFVM.
 
 - **All previously existing assets from these two libraries have been incorporated into AVM as resource or pattern modules.**
 - All previously existing (non-AVM) modules that were published in the Public Bicep Registry (stored in the `/modules` folder of the BRM repository) have either been [retired or transformed into an AVM module](https://github.com/Azure/bicep-registry-modules?tab=readme-ov-file#%EF%B8%8F-new-standard-for-bicep-modules---avm-%EF%B8%8F) - while some are still being worked on.
-{{% /notice %}}
+  {{% /notice %}}
 
 #### CARML to AVM Evolution
 
@@ -80,7 +80,7 @@ At a high-level "WAF Aligned" means, where possible and appropriate, AVM Modules
 - [Well-Architected Framework (WAF)](https://learn.microsoft.com/azure/well-architected/what-is-well-architected-framework)
 - [Reliability Hub](https://learn.microsoft.com/azure/reliability/overview-reliability-guidance)
 - [Azure Proactive Resiliency Library (APRL)](https://aka.ms/aprl)
-  - *Only Product Group (PG) verified*
+  - _Only Product Group (PG) verified_
 
 For security recommendations we will also utilize the following frameworks and resources; **again only for high impact/priority/severity recommendations**:
 
@@ -153,7 +153,6 @@ Of course! As all modules are inner-sourced, meaning anyone from Hennepin County
 ### Help, I'm stuck!
 
 If you are stuck, feel free to reach out in the "Terraform Community of Practice" team in Microsoft Teams.
-
 
 ## Technical questions
 
