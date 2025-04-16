@@ -1,6 +1,6 @@
 baseURL = 'https://azure.github.io/Hennepin-Verified-Modules/'
 languageCode = 'en-us'
-title = 'AVM'
+title = 'HVM'
 theme = 'hugo-theme-relearn'
 
 images = ['images/avm_logo.png']
@@ -34,7 +34,8 @@ enableGitInfo = true
     collapsibleMenu = false
     disableRootBreadcrumb = false
     # clarityId = 'prb1m4vask' # AVM-Test
-    clarityId = 'p0l7yeco82' # Hennepin-Verified-Modules
+    # clarityId = 'p0l7yeco82' # Azure-Verified-Modules
+    clarityId = '' # Hennepin-Verified-Modules
 
 [module]
   [[module.imports]]
@@ -282,15 +283,7 @@ enableGitInfo = true
       pageRef = '/help-support/issue-triage/avm-issue-triage'
       weight = 1
       params = { alwaysopen = false, collapsibleMenu = true }
-
-    [[menu.defined]]
-      identifier = 'brm-repository'
-      parent = 'issue-triage'
-      name = 'BRM Repository'
-      pageRef = '/help-support/issue-triage/brm-issue-triage'
-      weight = 2
-      params = { alwaysopen = false, collapsibleMenu = true }
-
+      
     [[menu.defined]]
       identifier = 'terraform-repositories'
       parent = 'issue-triage'
