@@ -1,6 +1,6 @@
 ---
 title: BCPRMNFR2 - User-defined types - AVM-Common-Types
-description: Module Specification for the Azure Verified Modules (AVM) program
+description: Module Specification for the Hennepin Verified Modules (AVM) program
 url: /spec/BCPRMNFR2
 type: default
 tags: [

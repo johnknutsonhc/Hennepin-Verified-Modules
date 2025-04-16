@@ -2,7 +2,7 @@
 title: Frequently Asked Questions (FAQ)
 linktitle: FAQ
 aliases: ['/faq']
-description: Frequently Asked Questions (FAQ) for the Azure Verified Modules (AVM) program
+description: Frequently Asked Questions (FAQ) for the Hennepin Verified Modules (AVM) program
 ---
 
 {{% notice style="tip" %}}
@@ -273,7 +273,7 @@ If any of these queries don't return any results, it means that no module in the
 
 If exists, you can comment on the [Module Proposal issue](https://aka.ms/AVM/ModuleProposals) of the module that you are interested in and the AVM Core Team will do the triage providing information about next steps.
 
-Having an understanding of roles & responsibilities is useful as well, you can find this information on the [Team Definitions & RACI | Azure Verified Modules]({{% siteparam base %}}/specs/shared/team-definitions/) page.
+Having an understanding of roles & responsibilities is useful as well, you can find this information on the [Team Definitions & RACI | Hennepin Verified Modules]({{% siteparam base %}}/specs/shared/team-definitions/) page.
 
 ---
 
@@ -430,4 +430,4 @@ However, we kept the door open to make this possible in the future if there is a
 
 ### If I use AVM modules in my solution, do I need to have the MIT license in my own repo also? Do I need to add or reference AVM's license in my solution?
 
-Microsoft is not in the position of providing legal guidance on what licensing model your product/solution/etc. (the "Software") leveraging Azure Verified Modules can or should be under. Generally speaking, the MIT license is permissive and allows you to freely use, modify, and distribute the code and does not mandate you to have your entire Software under the MIT license, but you must follow the requirements for the MIT-licensed code that you carry. As stated in the AVM LICENSE reference [here](https://github.com/Azure/Azure-Verified-Modules/blob/823d79037d9decbcb4a5bdb4a044f2d3f3975ac3/LICENSE#L12C5-L13C52), the described "*copyright notice and permission notice shall be included in all copies or substantial portions of the Software*".
+Microsoft is not in the position of providing legal guidance on what licensing model your product/solution/etc. (the "Software") leveraging Hennepin Verified Modules can or should be under. Generally speaking, the MIT license is permissive and allows you to freely use, modify, and distribute the code and does not mandate you to have your entire Software under the MIT license, but you must follow the requirements for the MIT-licensed code that you carry. As stated in the AVM LICENSE reference [here](https://github.com/Azure/Azure-Verified-Modules/blob/823d79037d9decbcb4a5bdb4a044f2d3f3975ac3/LICENSE#L12C5-L13C52), the described "*copyright notice and permission notice shall be included in all copies or substantial portions of the Software*".

@@ -1,7 +1,7 @@
 ---
 title: Team Definitions & RACI
 url: /specs/shared/team-definitions/
-description: Team Definitions & RACI for the Azure Verified Modules (AVM) program
+description: Team Definitions & RACI for the Hennepin Verified Modules (AVM) program
 ---
 
 ## Teams

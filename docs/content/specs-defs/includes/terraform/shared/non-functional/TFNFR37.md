@@ -1,6 +1,6 @@
 ---
 title: TFNFR37 - Tool Usage by Module Owner
-description: Module Specification for the Azure Verified Modules (AVM) program
+description: Module Specification for the Hennepin Verified Modules (AVM) program
 url: /spec/TFNFR37
 type: default
 tags: [

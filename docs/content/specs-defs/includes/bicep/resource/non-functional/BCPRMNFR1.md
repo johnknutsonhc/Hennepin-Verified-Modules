@@ -1,6 +1,6 @@
 ---
 title: BCPRMNFR1 - Expected Test Directories
-description: Module Specification for the Azure Verified Modules (AVM) program
+description: Module Specification for the Hennepin Verified Modules (AVM) program
 url: /spec/BCPRMNFR1
 type: default
 tags: [

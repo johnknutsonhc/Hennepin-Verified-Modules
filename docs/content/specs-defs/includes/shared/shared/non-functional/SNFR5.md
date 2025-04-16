@@ -1,6 +1,6 @@
 ---
 title: SNFR5 - Upgrade Tests
-description: Module Specification for the Azure Verified Modules (AVM) program
+description: Module Specification for the Hennepin Verified Modules (AVM) program
 url: /spec/SNFR5
 type: default
 tags: [

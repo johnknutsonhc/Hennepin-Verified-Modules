@@ -1,6 +1,6 @@
 ---
 title: BCPNFR19 - User-defined types - Naming
-description: Module Specification for the Azure Verified Modules (AVM) program
+description: Module Specification for the Hennepin Verified Modules (AVM) program
 url: /spec/BCPNFR18
 type: default
 tags: [

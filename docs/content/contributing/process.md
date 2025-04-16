@@ -1,6 +1,6 @@
 ---
 title: Process Overview
-description: Contribution Process Overview for the Azure Verified Modules (AVM) program
+description: Contribution Process Overview for the Hennepin Verified Modules (AVM) program
 ---
 
 This page provides an overview of the contribution process for AVM modules.

@@ -1,6 +1,6 @@
 ---
 title: TFFR2 - Additional Terraform Outputs
-description: Module Specification for the Azure Verified Modules (AVM) program
+description: Module Specification for the Hennepin Verified Modules (AVM) program
 url: /spec/TFFR2
 type: default
 tags: [

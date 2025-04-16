@@ -3,16 +3,16 @@ draft: false
 title: Terraform Quickstart Guide
 linktitle: Terraform
 weight: 2
-description: Terraform Quickstart Guidance for the Azure Verified Modules (AVM) program
+description: Terraform Quickstart Guidance for the Hennepin Verified Modules (AVM) program
 ---
 
 ## Introduction
 
-This guide explains how to use an Azure Verified Module (AVM) in your Terraform workflow. With AVM modules, you can quickly deploy and manage Azure infrastructure without writing extensive code from scratch.
+This guide explains how to use an Hennepin Verified Module (AVM) in your Terraform workflow. With AVM modules, you can quickly deploy and manage Azure infrastructure without writing extensive code from scratch.
 
 In this guide, you will deploy a [Key Vault](https://learn.microsoft.com/en-us/azure/key-vault/general/) resource and generate and store a key.
 
-This article is intended for a typical 'infra-dev' user (cloud infrastructure professional) who is new to Azure Verified Modules and wants to learn how to deploy a module in the easiest way using AVM. The user has a basic understanding of Azure and Terraform.
+This article is intended for a typical 'infra-dev' user (cloud infrastructure professional) who is new to Hennepin Verified Modules and wants to learn how to deploy a module in the easiest way using AVM. The user has a basic understanding of Azure and Terraform.
 
 For additional Terraform resources, try a [tutorial](https://developer.hashicorp.com/terraform/tutorials/azure-get-started) on the HashiCorp website or study the [detailed documentation.](https://developer.hashicorp.com/terraform/docs)
 
@@ -33,7 +33,7 @@ Before you begin, ensure you have these tools installed in your development envi
 
 In this scenario, you need to deploy a Key Vault resource and some of its child resources, such as a key. Let's find the AVM module that will help us achieve this.
 
-There are two primary ways for locating published Terraform Azure Verified Modules:
+There are two primary ways for locating published Terraform Hennepin Verified Modules:
 
 - Searching the [official Terraform Registry](https://registry.terraform.io/), and
 - Browsing the[AVM Terraform module index](https://aka.ms/avm/moduleindex/terraform).
@@ -61,7 +61,7 @@ The easiest way to find published AVM Terraform modules is by searching the Terr
     Your browser does not support the video tag.
 </video>
 
-Searching the Azure Verified Module indexes is the most complete way to discover published as well as planned modules - shown as proposed. As presented in the video above, use the following steps to locate a specific module on the AVM website:
+Searching the Hennepin Verified Module indexes is the most complete way to discover published as well as planned modules - shown as proposed. As presented in the video above, use the following steps to locate a specific module on the AVM website:
 
 - Use your web browser to open the AVM website at [https://aka.ms/avm](https://aka.ms/avm).
 - Expand the **Module Indexes** menu item and select the **Terraform** sub-menu item.
@@ -364,4 +364,4 @@ Congratulations, you have successfully leveraged Terraform and AVM to deploy res
 
 ## Next Steps
 
-For developing a more advanced solution, please see the lab titled "[Introduction to using Azure Verified Modules for Terraform](https://aka.ms/AVM/TF/labs)".
+For developing a more advanced solution, please see the lab titled "[Introduction to using Hennepin Verified Modules for Terraform](https://aka.ms/AVM/TF/labs)".

@@ -2,14 +2,14 @@
 draft: false
 title: Quickstart Guide
 linktitle: Quickstart
-description: Quickstart Guidance for the Azure Verified Modules (AVM) program
+description: Quickstart Guidance for the Hennepin Verified Modules (AVM) program
 ---
 
-This QuickStart guide offers step-by-step instructions for integrating Azure Verified Modules (AVM) into your solutions. It includes the initial setup, essential tools, and configurations required to deploy and manage your Azure resources efficiently using AVM.
+This QuickStart guide offers step-by-step instructions for integrating Hennepin Verified Modules (AVM) into your solutions. It includes the initial setup, essential tools, and configurations required to deploy and manage your Azure resources efficiently using AVM.
 
 The AVM Key Vault resource module, used as an example in this chapter, simplifies the deployment and management of Azure Key Vaults, ensuring secure storage and access to your secrets, keys, and certificates.
 
-## Leveraging Azure Verified Modules
+## Leveraging Hennepin Verified Modules
 
 Using AVM ensures that your infrastructure-as-code deployments follow Microsoft's best practices and guidelines, providing a consistent and reliable foundation for your cloud solutions. AVM helps accelerate your development process, reduce the risk of misconfigurations, and enhance the security and compliance of your applications.
 

@@ -1,6 +1,6 @@
 ---
 title: TFNFR18 - Variables with Types
-description: Module Specification for the Azure Verified Modules (AVM) program
+description: Module Specification for the Hennepin Verified Modules (AVM) program
 url: /spec/TFNFR18
 type: default
 tags: [

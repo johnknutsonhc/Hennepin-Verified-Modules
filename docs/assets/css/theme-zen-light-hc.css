@@ -1,0 +1,8 @@
+@import "theme-zen-light.css";
+
+:root {
+  /* zen-light */
+  /* hennepin branded https://www.hennepin.us/brand */
+  --PRIMARY-color: rgba(0, 88, 164, 1); /* brand primary color */
+  --SECONDARY-color: rgba(0, 174, 239, 1); /* brand secondary color */
+}

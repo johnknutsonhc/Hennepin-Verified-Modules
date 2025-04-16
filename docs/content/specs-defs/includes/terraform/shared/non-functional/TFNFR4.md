@@ -1,6 +1,6 @@
 ---
 title: TFNFR4 - Lower snake_casing
-description: Module Specification for the Azure Verified Modules (AVM) program
+description: Module Specification for the Hennepin Verified Modules (AVM) program
 url: /spec/TFNFR4
 type: default
 tags: [

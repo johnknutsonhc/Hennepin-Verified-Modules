@@ -1,6 +1,6 @@
 ---
 title: TFNFR7 - Count & for_each Use
-description: Module Specification for the Azure Verified Modules (AVM) program
+description: Module Specification for the Hennepin Verified Modules (AVM) program
 url: /spec/TFNFR7
 type: default
 tags: [

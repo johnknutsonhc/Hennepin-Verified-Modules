@@ -1,6 +1,6 @@
 ---
 title: BCPNFR8 - Code Styling - lower camelCasing
-description: Module Specification for the Azure Verified Modules (AVM) program
+description: Module Specification for the Hennepin Verified Modules (AVM) program
 url: /spec/BCPNFR8
 type: default
 tags: [

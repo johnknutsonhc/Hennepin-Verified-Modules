@@ -3,7 +3,7 @@ title: Usage Guide
 linktitle: Usage Guide
 type: default
 weight: 3
-description: Usage Guidance for the Azure Verified Modules (AVM) program
+description: Usage Guidance for the Hennepin Verified Modules (AVM) program
 ---
 
 ## Summary

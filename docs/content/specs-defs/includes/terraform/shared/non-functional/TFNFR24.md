@@ -1,6 +1,6 @@
 ---
 title: TFNFR24 - Handling Deprecated Variables
-description: Module Specification for the Azure Verified Modules (AVM) program
+description: Module Specification for the Hennepin Verified Modules (AVM) program
 url: /spec/TFNFR24
 type: default
 tags: [

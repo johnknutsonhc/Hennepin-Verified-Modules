@@ -5,7 +5,7 @@ linkTitle: Specifications & Definitions
 type: default
 weight: 4
 url: /specs/
-description: Specifications & Definitions for the Azure Verified Modules (AVM) program
+description: Specifications & Definitions for the Hennepin Verified Modules (AVM) program
 ---
 
 ## Summary

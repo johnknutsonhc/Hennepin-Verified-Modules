@@ -2,7 +2,7 @@
 title: Bicep Resource Module Specifications
 linktitle: Resource Modules
 url: /specs/bcp/res/
-description: Bicep Resource Module Specifications for the Azure Verified Modules (AVM) program
+description: Bicep Resource Module Specifications for the Hennepin Verified Modules (AVM) program
 ---
 
 ## Contribution / Support

@@ -1,6 +1,6 @@
 ---
 title: TFNFR12 - Dynamic for Optional Nested Objects
-description: Module Specification for the Azure Verified Modules (AVM) program
+description: Module Specification for the Hennepin Verified Modules (AVM) program
 url: /spec/TFNFR12
 type: default
 tags: [

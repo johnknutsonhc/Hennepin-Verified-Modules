@@ -1,6 +1,6 @@
 ---
 title: BCPNFR7 - Parameter Requirement Types
-description: Module Specification for the Azure Verified Modules (AVM) program
+description: Module Specification for the Hennepin Verified Modules (AVM) program
 url: /spec/BCPNFR7
 type: default
 tags: [

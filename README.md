@@ -1,17 +1,17 @@
 <!-- markdownlint-disable -->
 > 📄 **Please note** that our documentation is published over at [aka.ms/AVM](https://aka.ms/avm). Please visit this site for more information and guidance! 📄 <br><br>
->  This repository is used for proposing and tracking the state of modules, tracking issues and feature requests as well as hosting documentation for the Azure Verified Modules (AVM) project. If you are looking for the AVM code repositories, please visit the Bicep and Terraform [module indexes](https://azure.github.io/Azure-Verified-Modules/indexes/) on the AVM portal for references.
+>  This repository is used for proposing and tracking the state of modules, tracking issues and feature requests as well as hosting documentation for the Hennepin Verified Modules (AVM) project. If you are looking for the AVM code repositories, please visit the Bicep and Terraform [module indexes](https://azure.github.io/Azure-Verified-Modules/indexes/) on the AVM portal for references.
 <!-- markdownlint-restore -->
 
-# Azure Verified Modules (AVM)
+# Hennepin Verified Modules (AVM)
 <!-- [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/azure/azure-verified-modules.svg)](http://isitmaintained.com/project/azure/azure-verified-modules "Average time to resolve an issue")
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/azure/azure-verified-modules.svg)](http://isitmaintained.com/project/azure/azure-verified-modules "Percentage of issues still open") -->
 
 <img src="docs/static/img/avm_logo.png" width=20% align=right>
 
-**Welcome to the Azure Verified Modules (AVM) repository!**
+**Welcome to the Hennepin Verified Modules (AVM) repository!**
 
-Azure Verified Modules (AVM), as "One Microsoft", we want to provide and define the single definition of what a good IaC module is;
+Hennepin Verified Modules (AVM), as "One Microsoft", we want to provide and define the single definition of what a good IaC module is;
 
 - How they should be constructed and built
   - Enforcing consistency and testing where possible
@@ -23,11 +23,11 @@ For more information on AVM, **please visit the [AVM portal (https://aka.ms/AVM)
 
 ## AVM Mission Statement
 
-Our mission is to deliver a comprehensive Azure Verified Modules library in multiple IaC languages, following the principles of the well-architected framework, serving as the trusted Microsoft source of truth. Supported by Microsoft, AVM will accelerate deployment time for Azure resources and architectural patterns, empowering every person and organization on the planet on their IaC journey.
+Our mission is to deliver a comprehensive Hennepin Verified Modules library in multiple IaC languages, following the principles of the well-architected framework, serving as the trusted Microsoft source of truth. Supported by Microsoft, AVM will accelerate deployment time for Azure resources and architectural patterns, empowering every person and organization on the planet on their IaC journey.
 
 ## Contributing
 
-To contribute to Azure Verified Modules please visit: [aka.ms/AVM/Contribute](https://aka.ms/AVM/Contribute)
+To contribute to Hennepin Verified Modules please visit: [aka.ms/AVM/Contribute](https://aka.ms/AVM/Contribute)
 
 ## Trademarks
 

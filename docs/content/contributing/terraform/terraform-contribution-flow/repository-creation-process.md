@@ -1,7 +1,7 @@
 ---
 title: Terraform Core Team Repository Creation Process
 linktitle: Repository Creation Process
-description: Terraform Core Team Repository Creation Process for the Azure Verified Modules (AVM) program
+description: Terraform Core Team Repository Creation Process for the Hennepin Verified Modules (AVM) program
 ---
 
 This section describes the process for AVM core team members who are responsible for creating Terraform Module repositories.
@@ -19,7 +19,7 @@ This contribution flow is for **AVM Core Team members** only.
 1. Open one of the issues to find the details you need.
     1. Module name: This will be in the format `avm-<type>-<name>`. e.g. `avm-res-network-virtualnetwork`
     1. Module owner GitHub handle: This will be in the content of the issue
-    1. Module description: If this does not exist, then create one. The description will automtically be prefixed with `Terraform Azure Verified <module-type> Module for ...`, where `<module-type>` is either Resource, Pattern, or Utility
+    1. Module description: If this does not exist, then create one. The description will automtically be prefixed with `Terraform Hennepin Verified <module-type> Module for ...`, where `<module-type>` is either Resource, Pattern, or Utility
 
 ### 2. Create the repository
 
@@ -78,7 +78,7 @@ This contribution flow is for **AVM Core Team members** only.
     | Question | Answer |
     | --- | --- |
     | Classify the repository | Production |
-    | Assign a Service tree or Opt-out | Azure Verified Modules / AVM |
+    | Assign a Service tree or Opt-out | Hennepin Verified Modules / AVM |
     | Direct owners | Add the module owner and yourself as direct owners. Add the avm-team-module-owners as security group. |
     | Is this going to ship as a public open source licensed project | Yes, creating an open source licensed project |
     | What type of open source will this be | Sample code |
@@ -86,9 +86,9 @@ This contribution flow is for **AVM Core Team members** only.
     | Did your team write all the code and create all of the assets you are releasing? | Yes, all created by my team |
     | Does this project send any data or telemetry back to Microsoft? | Yes, telemetry |
     | Does this project implement cryptography | No |
-    | Project name | Azure Verified Module (Terraform) for '*module name*' |
+    | Project name | Hennepin Verified Module (Terraform) for '*module name*' |
     | Project version | 1 |
-    | Project description | Azure Verified Module (Terraform) for '*module name*'. Part of AVM project - <https://aka.ms/avm> |
+    | Project description | Hennepin Verified Module (Terraform) for '*module name*'. Part of AVM project - <https://aka.ms/avm> |
     | Business goals | Create IaC module that will accelerate deployment on Azure using Microsoft best practice. |
     | Will this be used in a Microsoft product or service? | This is open source project and can be leveraged in Microsoft service and product. |
     | Adopt security best practice? | Yes, use just-in-time elevation |
@@ -116,7 +116,7 @@ This contribution flow is for **AVM Core Team members** only.
 
 1. Create a new issue at <https://github.com/microsoft/github-operations/issues/new?template=GitHub-App-Installation-Request.md>
 1. Update the issue with the following details:
-    1. Title: `[GitHub App] Installation Request - Azure Verified Modules`
+    1. Title: `[GitHub App] Installation Request - Hennepin Verified Modules`
     1. Body - replace `<repository url>` with the URL of the repository you created in step 2:
 
         ```markdown
@@ -138,7 +138,7 @@ This contribution flow is for **AVM Core Team members** only.
 
         # My request
 
-        - GitHub App name: Azure Verified Modules
+        - GitHub App name: Hennepin Verified Modules
 
         - GitHub organization in which the app would be installed: Azure
 

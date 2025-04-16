@@ -1,6 +1,6 @@
 ---
 title: BCPNFR17 - Code Styling - Type casting
-description: Module Specification for the Azure Verified Modules (AVM) program
+description: Module Specification for the Hennepin Verified Modules (AVM) program
 url: /spec/BCPNFR17
 type: default
 tags: [

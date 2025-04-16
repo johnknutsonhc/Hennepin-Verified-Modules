@@ -1,6 +1,6 @@
 ---
 title: Contributing
-description: Contribution pages for the Azure Verified Modules (AVM) program
+description: Contribution pages for the Hennepin Verified Modules (AVM) program
 ---
 
 ## Summary

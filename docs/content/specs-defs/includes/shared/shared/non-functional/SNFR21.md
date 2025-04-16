@@ -1,6 +1,6 @@
 ---
 title: SNFR21 - Cross Language Collaboration
-description: Module Specification for the Azure Verified Modules (AVM) program
+description: Module Specification for the Hennepin Verified Modules (AVM) program
 url: /spec/SNFR21
 type: default
 tags: [

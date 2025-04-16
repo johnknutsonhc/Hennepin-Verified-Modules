@@ -2,7 +2,7 @@
 title: Bicep Utility Module Specifications
 linktitle: Utility Modules
 url: /specs/bcp/utl/
-description: Bicep Utility Module Specifications for the Azure Verified Modules (AVM) program
+description: Bicep Utility Module Specifications for the Hennepin Verified Modules (AVM) program
 ---
 
 ## Contribution / Support

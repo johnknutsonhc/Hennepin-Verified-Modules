@@ -1,6 +1,6 @@
 ---
 title: RMFR8 - Dependency on child and other resources
-description: Module Specification for the Azure Verified Modules (AVM) program
+description: Module Specification for the Hennepin Verified Modules (AVM) program
 url: /spec/RMFR8
 type: default
 tags: [

@@ -262,8 +262,8 @@
       {{ $repoURLSplit := strings.Split $item.RepoURL "/" }}
       {{ $repoName := index $repoURLSplit (sub (len $repoURLSplit) 1) }}
       {{ $repoNameSplit := strings.Split $repoName "-" }}
-      {{ $moduleProvider := index $repoNameSplit 1 }}
-      {{ $moduleTfRegApiUrl := printf "https://registry.terraform.io/v1/modules/Azure/%s/%s/versions" $item.ModuleName $moduleProvider }}
+      {{ $moduleProvider := "azurerm" }}
+      {{ $moduleTfRegApiUrl := printf "https://hcprivatetfregistry.z19.web.core.windows.net/modules/v1/HennepinCounty/%s/%s/versions" $item.ModuleName $moduleProvider }}
       {{ $moduleTfRegApiData := dict }}
       {{- with resources.GetRemote $moduleTfRegApiUrl -}}
         {{- with .Err -}}

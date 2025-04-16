@@ -1,6 +1,6 @@
 ---
 title: Contribution Q&A
-description: Contribution Q&A for the Azure Verified Modules (AVM) program
+description: Contribution Q&A for the Hennepin Verified Modules (AVM) program
 ---
 
 

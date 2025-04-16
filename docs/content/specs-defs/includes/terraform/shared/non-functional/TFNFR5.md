@@ -1,6 +1,6 @@
 ---
 title: TFNFR5 - Test Tooling
-description: Module Specification for the Azure Verified Modules (AVM) program
+description: Module Specification for the Hennepin Verified Modules (AVM) program
 url: /spec/TFNFR5
 type: default
 tags: [

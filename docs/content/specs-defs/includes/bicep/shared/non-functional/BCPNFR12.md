@@ -1,6 +1,6 @@
 ---
 title: BCPNFR12 - Deployment Test Naming
-description: Module Specification for the Azure Verified Modules (AVM) program
+description: Module Specification for the Hennepin Verified Modules (AVM) program
 url: /spec/BCPNFR12
 type: default
 tags: [

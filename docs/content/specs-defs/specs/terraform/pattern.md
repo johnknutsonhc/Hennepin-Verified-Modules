@@ -2,7 +2,7 @@
 title: Terraform Pattern Module Specifications
 linktitle: Pattern Modules
 url: /specs/tf/ptn/
-description: Terraform Pattern Module Specifications for the Azure Verified Modules (AVM) program
+description: Terraform Pattern Module Specifications for the Hennepin Verified Modules (AVM) program
 ---
 
 ## Contribution / Support

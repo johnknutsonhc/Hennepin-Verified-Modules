@@ -2,10 +2,10 @@
 
 <#
 .SYNOPSIS
-  This script can be used to create the Azure Verified Modules (AVM) standard GitHub labels to a GitHub repository.
+  This script can be used to create the Hennepin Verified Modules (AVM) standard GitHub labels to a GitHub repository.
 
 .DESCRIPTION
-  This script can be used to create the Azure Verified Modules (AVM) standard GitHub labels to a GitHub repository.
+  This script can be used to create the Hennepin Verified Modules (AVM) standard GitHub labels to a GitHub repository.
 
   By default, the script will remove all pre-existing labels and apply the AVM labels. However, this can be changed by using the -RemoveExistingLabels parameter and setting it to $false. The tool will also output the labels that exist in the repository before and after the script has run to a CSV file in the current directory, or a directory specified by the -OutputDirectory parameter.
 

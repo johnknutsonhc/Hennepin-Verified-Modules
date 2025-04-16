@@ -1,6 +1,6 @@
 ---
 title: SNFR23 - GitHub Repo Labels
-description: Module Specification for the Azure Verified Modules (AVM) program
+description: Module Specification for the Hennepin Verified Modules (AVM) program
 url: /spec/SNFR23
 type: default
 tags: [

@@ -1,9 +1,9 @@
 <#
 .SYNOPSIS
-Compares Azure Verified Modules Module Indexes with existing GitHub Teams configurations. Issues with GitHub teams can be converted to Github Issues or verbose output.
+Compares Hennepin Verified Modules Module Indexes with existing GitHub Teams configurations. Issues with GitHub teams can be converted to Github Issues or verbose output.
 
 .DESCRIPTION
-Compares Azure Verified Modules Module Indexes with existing GitHub Teams configurations. Issues with GitHub teams can be converted to Github Issues or verbose output.
+Compares Hennepin Verified Modules Module Indexes with existing GitHub Teams configurations. Issues with GitHub teams can be converted to Github Issues or verbose output.
 
 .PARAMETER ModuleIndex
 Required. Modules Index to use as source, allowed strings are:

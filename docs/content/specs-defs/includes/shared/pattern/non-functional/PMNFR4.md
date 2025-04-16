@@ -1,6 +1,6 @@
 ---
 title: PMNFR4 - Missing Resource Module(s)
-description: Module Specification for the Azure Verified Modules (AVM) program
+description: Module Specification for the Hennepin Verified Modules (AVM) program
 url: /spec/PMNFR4
 type: default
 tags: [

@@ -1,7 +1,7 @@
 ---
 title: Issue Triage Automation
 linktitle: Issue Triage Automation
-description: Issue Triage Automation for the Azure Verified Modules (AVM) program's repositories
+description: Issue Triage Automation for the Hennepin Verified Modules (AVM) program's repositories
 ---
 
 This page details the automation that is in place to help with the triage of issues and PRs raised against the AVM modules.
@@ -281,11 +281,11 @@ When a new issue or PR of any type is created add the &nbsp;<mark style="backgro
 
 ### ITA08BCP
 
-If AVM or "Azure Verified Modules" is mentioned in an uncategorized issue (i.e., one not using any template), apply the label of &nbsp;<mark style="background-image:none;white-space: nowrap;background-color:#F0FFFF;">Type: AVM 🅰️ ✌️ ⓜ️</mark>&nbsp; on the issue.
+If AVM or "Hennepin Verified Modules" is mentioned in an uncategorized issue (i.e., one not using any template), apply the label of &nbsp;<mark style="background-image:none;white-space: nowrap;background-color:#F0FFFF;">Type: AVM 🅰️ ✌️ ⓜ️</mark>&nbsp; on the issue.
 
 **Trigger criteria:**
 
-- An issue, issue comment, PR, or PR comment is opened, created or edited and the body or comment contains the strings of "AVM" or "Azure Verified Modules".
+- An issue, issue comment, PR, or PR comment is opened, created or edited and the body or comment contains the strings of "AVM" or "Hennepin Verified Modules".
 
 **Action(s):**
 

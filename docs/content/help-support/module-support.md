@@ -1,6 +1,6 @@
 ---
 title: Module Support
-description: Module Support for the Azure Verified Modules (AVM) program
+description: Module Support for the Hennepin Verified Modules (AVM) program
 ---
 
 As mentioned on the [Introduction]({{% siteparam base %}}/overview/introduction) page, we understand that long-term support from Microsoft in an initiative like AVM is critical to its adoption by consumers and therefore the success of AVM. Therefore we have aligned and provide the below support statement/process for AVM modules.
@@ -13,7 +13,7 @@ Issues with an AVM module should be raised on the repo they are hosted on, not t
 
 {{% /notice %}}
 
-Azure Verified Modules are supported by the AVM teams, as defined [here]({{% siteparam base %}}/specs/shared/team-definitions/), using GitHub issues in the following order of precedence:
+Hennepin Verified Modules are supported by the AVM teams, as defined [here]({{% siteparam base %}}/specs/shared/team-definitions/), using GitHub issues in the following order of precedence:
 
 1. Module owners/contributors
 2. If there is no response within 3 business days, then the AVM core team will step in by:

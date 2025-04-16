@@ -1,6 +1,6 @@
 ---
 title: PMNFR5 - Parameter/Variable Naming
-description: Module Specification for the Azure Verified Modules (AVM) program
+description: Module Specification for the Hennepin Verified Modules (AVM) program
 url: /spec/PMNFR5
 type: default
 tags: [

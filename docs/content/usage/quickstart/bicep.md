@@ -3,16 +3,16 @@ draft: false
 title: Bicep Quickstart Guide
 linktitle: Bicep
 weight: 1
-description: Bicep Quickstart Guidance for the Azure Verified Modules (AVM) program
+description: Bicep Quickstart Guidance for the Hennepin Verified Modules (AVM) program
 ---
 
 ## Introduction
 
-This guide explains how to use an Azure Verified Module (AVM) in your Bicep workflow. By leveraging AVM modules, you can rapidly deploy and manage Azure infrastructure without having to write extensive code from scratch.
+This guide explains how to use an Hennepin Verified Module (AVM) in your Bicep workflow. By leveraging AVM modules, you can rapidly deploy and manage Azure infrastructure without having to write extensive code from scratch.
 
 In this guide, you will deploy a [Key Vault](https://learn.microsoft.com/en-us/azure/key-vault/general/) resource and a Personal Access Token as a secret.
 
-This article is intended for a typical 'infra-dev' user (cloud infrastructure professional) who has a basic understanding of Azure and Bicep but is new to Azure Verified Modules and wants to learn how to deploy a module in the easiest way using AVM.
+This article is intended for a typical 'infra-dev' user (cloud infrastructure professional) who has a basic understanding of Azure and Bicep but is new to Hennepin Verified Modules and wants to learn how to deploy a module in the easiest way using AVM.
 
 For additional Bicep learning resources use the [Bicep documentation](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/) on the Microsoft Learn platform, or leverage the [Fundamentals of Bicep](https://learn.microsoft.com/en-us/training/paths/fundamentals-bicep/) learning path.
 
@@ -36,7 +36,7 @@ Make sure you have these tools set up before proceeding.
 
 In this scenario, you need to deploy a Key Vault resource and some of its child resources, such as a secret. Let's find the AVM module that will help us achieve this.
 
-There are two primary ways for locating published Bicep Azure Verified Modules:
+There are two primary ways for locating published Bicep Hennepin Verified Modules:
 
 - Option 1 (preferred): Using IntelliSense in the Bicep extension of Visual Studio Code, and
 - Option 2: browsing the [AVM Bicep module index](https://aka.ms/avm/moduleindex/bicep).
@@ -66,7 +66,7 @@ The Bicep VSCode extension is reading metadata through [this JSON file](https://
     Your browser does not support the video tag.
 </video>
 
-Searching the Azure Verified Module indexes is the most complete way to discover published as well as planned (proposed) modules. As shown in the video above, use the following steps to locate a specific module on the AVM website:
+Searching the Hennepin Verified Module indexes is the most complete way to discover published as well as planned (proposed) modules. As shown in the video above, use the following steps to locate a specific module on the AVM website:
 
 1. Open the AVM website in your favorite web browser: [https://aka.ms/avm](https://aka.ms/avm).
 1. Expand the **Module Indexes** menu item and select the **Bicep** sub-menu item.
@@ -149,7 +149,7 @@ It is recommended to create a [`bicepconfig.json`](https://learn.microsoft.com/e
 
 In this scenario - and every other real-world setup - there is more that you need to configure. You can open the module's documentation by hovering over its symbolic name to see all of the module’s capabilities - including supported parameters.
 
-{{% notice style="note" %}}The Bicep extension facilitates code-completion, enabling you to easily locate and utilize the Azure Verified Module. This feature also provides the necessary properties for a module, allowing you to begin typing and leverage IntelliSense for completion.{{% /notice %}}
+{{% notice style="note" %}}The Bicep extension facilitates code-completion, enabling you to easily locate and utilize the Hennepin Verified Module. This feature also provides the necessary properties for a module, allowing you to begin typing and leverage IntelliSense for completion.{{% /notice %}}
 
 1. Add parameters and values to the `main.bicep` file to customize your configuration. These parameters are used for passing in the Key Vault name and enabling purge protection. You might not want to enable the latter in a non-production environment, as it makes it harder to delete and recreate resources.
 
@@ -356,4 +356,4 @@ We welcome your contributions and feedback to help us improve the AVM modules an
 
 ## Next Steps
 
-For developing a more advanced solution, please see the lab titled "[Introduction to using Azure Verified Modules for Bicep](https://aka.ms/AVM/Bicep/labs)".
+For developing a more advanced solution, please see the lab titled "[Introduction to using Hennepin Verified Modules for Bicep](https://aka.ms/AVM/Bicep/labs)".

@@ -1,7 +1,7 @@
 ---
 title: Bicep Contribution Prerequisites
 linktitle: Prerequisites
-description: Bicep Contribution Prerequisites for the Azure Verified Modules (AVM) program
+description: Bicep Contribution Prerequisites for the Hennepin Verified Modules (AVM) program
 ---
 
 

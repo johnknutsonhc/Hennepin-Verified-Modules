@@ -1,6 +1,6 @@
 ---
 title: BCPNFR13 - Test file metadata
-description: Module Specification for the Azure Verified Modules (AVM) program
+description: Module Specification for the Hennepin Verified Modules (AVM) program
 url: /spec/BCPNFR13
 type: default
 tags: [

@@ -1,6 +1,6 @@
 ---
 title: TFNFR10 - No Double Quotes in ignore_changes
-description: Module Specification for the Azure Verified Modules (AVM) program
+description: Module Specification for the Hennepin Verified Modules (AVM) program
 url: /spec/TFNFR10
 type: default
 tags: [

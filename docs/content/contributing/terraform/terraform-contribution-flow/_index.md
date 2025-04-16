@@ -1,7 +1,7 @@
 ---
 title: Terraform Contribution Flow
 linktitle: Contribution Flow
-description: Terraform Contribution Flow for the Azure Verified Modules (AVM) program
+description: Terraform Contribution Flow for the Hennepin Verified Modules (AVM) program
 ---
 
 

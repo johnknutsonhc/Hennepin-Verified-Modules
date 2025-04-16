@@ -1,6 +1,6 @@
 ---
 title: SNFR3 - AVM Compliance Tests
-description: Module Specification for the Azure Verified Modules (AVM) program
+description: Module Specification for the Hennepin Verified Modules (AVM) program
 url: /spec/SNFR3
 type: default
 tags: [

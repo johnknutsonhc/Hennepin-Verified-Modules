@@ -1,6 +1,6 @@
 ---
 title: BCPNFR9 - Inputs - Decorators
-description: Module Specification for the Azure Verified Modules (AVM) program
+description: Module Specification for the Hennepin Verified Modules (AVM) program
 url: /spec/BCPNFR9
 type: default
 tags: [

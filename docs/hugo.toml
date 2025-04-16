@@ -1,4 +1,4 @@
-baseURL = 'https://azure.github.io/Azure-Verified-Modules/'
+baseURL = 'https://azure.github.io/Hennepin-Verified-Modules/'
 languageCode = 'en-us'
 title = 'AVM'
 theme = 'hugo-theme-relearn'
@@ -8,15 +8,15 @@ images = ['images/avm_logo.png']
 enableGitInfo = true
 
 [params]
-    base = '/Azure-Verified-Modules'
+    base = '/Hennepin-Verified-Modules'
     images = ['images/avm_logo.png']
     logo = 'images/favicon.svg'
     disableExplicitIndexURLs = true
     disableLanguageSwitchingButton = false
     themeVariant = [
-        { identifier = 'auto', name = 'Zen Light/Dark', auto = [ 'zen-light', 'zen-dark' ] },
-        { identifier = 'zen-light'      },
-        { identifier = 'zen-dark'       }
+        # { identifier = 'auto', name = 'Zen Light/Dark', auto = [ 'zen-light', 'zen-dark' ] },
+        { identifier = 'zen-light-hc'      },
+        # { identifier = 'zen-dark'       }
     ]
     disableLandingPageButton = false
     landingPageName = '<i class="fa-fw fas fa-home"></i> Home'
@@ -27,14 +27,14 @@ enableGitInfo = true
       # { type = 'page', identifier = 'home', main = true, disableTitle = true, pageRef = '' },
       # { type = 'menu', identifier = 'shortcuts', main = false, disableTitle = false },
     ]
-    editURL = 'https://github.com/Azure/Azure-Verified-Modules/edit/main/docs/content/${FilePath}'
+    editURL = 'https://github.com/johnknutsonhc/Hennepin-Verified-Modules/edit/main/docs/content/${FilePath}'
     disableInlineCopyToClipBoard = true
     disableAnchorScrolling = false
     alwaysopen = true
     collapsibleMenu = false
     disableRootBreadcrumb = false
     # clarityId = 'prb1m4vask' # AVM-Test
-    clarityId = 'p0l7yeco82' # Azure-Verified-Modules
+    clarityId = 'p0l7yeco82' # Hennepin-Verified-Modules
 
 [module]
   [[module.imports]]
@@ -100,38 +100,6 @@ enableGitInfo = true
   params = { alwaysopen = true, collapsibleMenu = true }
 
   [[menu.defined]]
-    identifier = 'bicep-module-indexes'
-    parent = 'module-indexes'
-    name = 'Bicep'
-    pageRef = '/indexes/bicep'
-    weight = 1
-    params = { alwaysopen = true, collapsibleMenu = true }
-
-    [[menu.defined]]
-      identifier = 'bicep-resource-module-indexes'
-      parent = 'bicep-module-indexes'
-      name = 'Resource Modules'
-      pageRef = '/indexes/bicep/bicep-resource-modules'
-      weight = 1
-      params = { alwaysopen = false, collapsibleMenu = true }
-
-    [[menu.defined]]
-      identifier = 'bicep-pattern-module-indexes'
-      parent = 'bicep-module-indexes'
-      name = 'Pattern Modules'
-      pageRef = '/indexes/bicep/bicep-pattern-modules'
-      weight = 2
-      params = { alwaysopen = false, collapsibleMenu = true }
-
-    [[menu.defined]]
-      identifier = 'bicep-utility-module-indexes'
-      parent = 'bicep-module-indexes'
-      name = 'Utility Modules'
-      pageRef = '/indexes/bicep/bicep-utility-modules'
-      weight = 3
-      params = { alwaysopen = false, collapsibleMenu = true }
-
-  [[menu.defined]]
     identifier = 'terraform-module-indexes'
     parent = 'module-indexes'
     name = 'Terraform'
@@ -180,14 +148,6 @@ enableGitInfo = true
     params = { alwaysopen = false, collapsibleMenu = true }
 
     [[menu.defined]]
-      identifier = 'bicep-quickstart'
-      parent = 'quickstart'
-      name = 'Bicep'
-      pageRef = '/usage/quickstart/bicep'
-      weight = 1
-      params = { alwaysopen = false, collapsibleMenu = true }
-
-    [[menu.defined]]
       identifier = 'terraform-quickstart'
       parent = 'quickstart'
       name = 'Terraform'
@@ -234,46 +194,6 @@ enableGitInfo = true
     pageRef = '/specs-defs/specs'
     weight = 4
     params = { alwaysopen = false, collapsibleMenu = true }
-
-    [[menu.defined]]
-      identifier = 'bicep-specs'
-      parent = 'module-specs'
-      name = 'Bicep'
-      pageRef = '/specs-defs/specs/bicep'
-      weight = 1
-      params = { alwaysopen = true, collapsibleMenu = true }
-
-      [[menu.defined]]
-        identifier = 'bicep-resource-specs'
-        parent = 'bicep-specs'
-        name = 'Resource Modules'
-        pageRef = '/specs-defs/specs/bicep/resource'
-        weight = 1
-        params = { alwaysopen = false, collapsibleMenu = true }
-
-      [[menu.defined]]
-        identifier = 'bicep-pattern-specs'
-        parent = 'bicep-specs'
-        name = 'Pattern  Modules'
-        pageRef = '/specs-defs/specs/bicep/pattern'
-        weight = 2
-        params = { alwaysopen = true, collapsibleMenu = true }
-
-      [[menu.defined]]
-        identifier = 'bicep-utility-specs'
-        parent = 'bicep-specs'
-        name = 'Utility  Modules'
-        pageRef = '/specs-defs/specs/bicep/utility'
-        weight = 3
-        params = { alwaysopen = true, collapsibleMenu = true }
-
-      [[menu.defined]]
-        identifier = 'bicep-resource-interfaces'
-        parent = 'bicep-specs'
-        name = 'Interfaces'
-        pageRef = '/specs-defs/specs/bicep/interfaces'
-        weight = 4
-        params = { alwaysopen = true, collapsibleMenu = true }
 
     [[menu.defined]]
       identifier = 'terraform-specs'
@@ -465,78 +385,6 @@ enableGitInfo = true
     weight = 1
     params = { alwaysopen = false, collapsibleMenu = true }
 
-
-  [[menu.defined]]
-    identifier = 'bicep-module-contribution'
-    parent = 'contributing'
-    name = 'Bicep Modules'
-    pageRef = '/contributing/bicep'
-    weight = 2
-    params = { alwaysopen = false, collapsibleMenu = true }
-
-    [[menu.defined]]
-      identifier = 'bicep-contribution-prerequisites'
-      parent = 'bicep-module-contribution'
-      name = 'Prerequisites'
-      pageRef = '/contributing/bicep/prerequisites'
-      weight = 1
-      params = { alwaysopen = false, collapsibleMenu = true }
-
-    [[menu.defined]]
-      identifier = 'bicep-contribution-composition'
-      parent = 'bicep-module-contribution'
-      name = 'Composition'
-      pageRef = '/contributing/bicep/composition'
-      weight = 2
-      params = { alwaysopen = false, collapsibleMenu = false }
-
-    [[menu.defined]]
-      identifier = 'bicep-contribution-flow'
-      parent = 'bicep-module-contribution'
-      name = 'Contribution Flow'
-      pageRef = '/contributing/bicep/bicep-contribution-flow'
-      weight = 3
-      params = { alwaysopen = true, collapsibleMenu = true }
-
-      [[menu.defined]]
-        identifier = 'bicep-owner-contribution-flow'
-        parent = 'bicep-contribution-flow'
-        name = 'Owner Contribution Flow'
-        pageRef = '/contributing/bicep/bicep-contribution-flow/owner-contribution-flow'
-        weight = 1
-        params = { alwaysopen = true, collapsibleMenu = true }
-
-      [[menu.defined]]
-        identifier = 'update-module-files'
-        parent = 'bicep-contribution-flow'
-        name = 'Update Module Files'
-        pageRef = '/contributing/bicep/bicep-contribution-flow/generate-bicep-module-files'
-        weight = 2
-        params = { alwaysopen = true, collapsibleMenu = true }
-
-      [[menu.defined]]
-        identifier = 'validate-module-locally'
-        parent = 'bicep-contribution-flow'
-        name = 'Validate Module Locally'
-        pageRef = '/contributing/bicep/bicep-contribution-flow/validate-bicep-module-locally'
-        weight = 3
-        params = { alwaysopen = true, collapsibleMenu = true }
-
-      [[menu.defined]]
-        identifier = 'enable-disable-workflows'
-        parent = 'bicep-contribution-flow'
-        name = 'Enable or Disable Workflows'
-        pageRef = '/contributing/bicep/bicep-contribution-flow/enable-or-disable-workflows'
-        weight = 4
-        params = { alwaysopen = true, collapsibleMenu = true }
-
-      [[menu.defined]]
-        identifier = 'custom-ci-secrets'
-        parent = 'bicep-contribution-flow'
-        name = 'Custom CI Secrets'
-        pageRef = '/contributing/bicep/bicep-contribution-flow/custom-ci-secrets'
-        weight = 5
-        params = { alwaysopen = true, collapsibleMenu = true }
 
   [[menu.defined]]
     identifier = 'terraform-module-contribution'

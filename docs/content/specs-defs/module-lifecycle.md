@@ -1,7 +1,7 @@
 ---
 title: Module Lifecycle
 url: /specs/shared/module-lifecycle/
-description: Module Lifecycle description for the Azure Verified Modules (AVM) program
+description: Module Lifecycle description for the Hennepin Verified Modules (AVM) program
 ---
 {{% notice style="note" %}}
 

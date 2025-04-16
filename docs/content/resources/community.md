@@ -1,7 +1,7 @@
 ---
 title: Community Calls
 linktitle: Community
-description: Community Content for the Azure Verified Modules (AVM) program
+description: Community Content for the Hennepin Verified Modules (AVM) program
 ---
 
 🎉 Join Our Community Calls! 🎉
@@ -38,13 +38,13 @@ This occurrence is optimized for EMEA/APAC time zones.
 - [AVM Community Call February 2025 Slides]({{% siteparam base %}}/community/avm-community-call-feb25.pdf)
 
 <div style="width:70%; margin: 0 auto;">
-{{< youtube id="M2dJetgK2U8" title="Azure Verified Modules (AVM) - February 2025 - External Community Call" >}}
+{{< youtube id="M2dJetgK2U8" title="Hennepin Verified Modules (AVM) - February 2025 - External Community Call" >}}
 </div>
 
 <br>
 
 <div style="width:70%; margin: 0 auto;">
-{{< youtube id="ifDba74rdG8" title="Azure Verified Modules (AVM) - Website Updates - February 2025" >}}
+{{< youtube id="ifDba74rdG8" title="Hennepin Verified Modules (AVM) - Website Updates - February 2025" >}}
 </div>
 
 ### 24th September 2024
@@ -54,7 +54,7 @@ This occurrence is optimized for EMEA/APAC time zones.
 - [AVM Community Call September 2024 Slides]({{% siteparam base %}}/community/avm-community-call-sept24.pdf)
 
 <div style="width:70%; margin: 0 auto;">
-{{< youtube id="to3asqq6X8s" title="Azure Verified Modules (AVM) - September 2024 - External Community Call" >}}
+{{< youtube id="to3asqq6X8s" title="Hennepin Verified Modules (AVM) - September 2024 - External Community Call" >}}
 </div>
 
 ### 21st May 2024
@@ -64,5 +64,5 @@ This occurrence is optimized for EMEA/APAC time zones.
 - [AVM Community Call May 2024 Slides]({{% siteparam base %}}/community/avm-community-call-may24.pdf)
 
 <div style="width:70%; margin: 0 auto;">
-{{< youtube id="LprWndLjLH0" title="Azure Verified Modules (AVM) - May 2024 - External Community Call" >}}
+{{< youtube id="LprWndLjLH0" title="Hennepin Verified Modules (AVM) - May 2024 - External Community Call" >}}
 </div>

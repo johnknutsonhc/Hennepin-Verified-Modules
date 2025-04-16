@@ -1,7 +1,7 @@
 ---
 title: Terraform Issue Triage
 linktitle: Terraform Repositories
-description: Issue Triage description for all the Terraform repositories of the Azure Verified Modules (AVM) program
+description: Issue Triage description for all the Terraform repositories of the Hennepin Verified Modules (AVM) program
 ---
 
 ## Overview

@@ -1,7 +1,7 @@
 ---
 title: Terraform Contribution Prerequisites
 linktitle: Prerequisites
-description: Terraform Contribution Prerequisites for the Azure Verified Modules (AVM) program
+description: Terraform Contribution Prerequisites for the Hennepin Verified Modules (AVM) program
 ---
 
 
@@ -36,7 +36,7 @@ To contribute to this project the following tooling is required:
   - [Terraform extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=hashicorp.terraform)
   - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 - [Docker](https://www.docker.com/pricing/#/download)
-  - [Azure Verified Terraform Scaffold](https://github.com/Azure/tfmod-scaffold) (`mcr.microsoft.com/azterraform:latest`)
+  - [Hennepin Verified Terraform Scaffold](https://github.com/Azure/tfmod-scaffold) (`mcr.microsoft.com/azterraform:latest`)
 
 ### Recommended Tooling
 

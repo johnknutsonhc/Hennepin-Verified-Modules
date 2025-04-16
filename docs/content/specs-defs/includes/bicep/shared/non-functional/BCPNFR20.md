@@ -1,6 +1,6 @@
 ---
 title: BCPNFR20 - User-defined types - Export
-description: Module Specification for the Azure Verified Modules (AVM) program
+description: Module Specification for the Hennepin Verified Modules (AVM) program
 url: /spec/BCPNFR20
 type: default
 tags: [
