@@ -1,12 +1,12 @@
 ---
 title: Team Definitions & RACI
 url: /specs/shared/team-definitions/
-description: Team Definitions & RACI for the Hennepin Verified Modules (AVM) program
+description: Team Definitions & RACI for the Hennepin Verified Modules (HVM) program
 ---
 
 ## Teams
 
-In AVM there will be multiple different teams involved throughout the initiatives lifecycle and ongoing long-term support. These teams will be listed below alongside their definitions.
+In HVM there will be multiple different teams involved throughout the initiatives lifecycle and ongoing long-term support. These teams will be listed below alongside their definitions.
 
 {{% notice style="important" %}}
 
@@ -14,11 +14,11 @@ Individuals can be members of multiple teams, at once, that are defined below.
 
 {{% /notice %}}
 
-### AVM Core Team
+### HVM Core Team
 
 GitHub Team: [`@Azure/avm-core-team`](https://github.com/orgs/Azure/teams/avm-core-team)
 
-The AVM core team are responsible for:
+The HVM core team are responsible for:
 
 - Specifications
   - Shared
@@ -37,7 +37,7 @@ The team is made up of both technical and non-technical team members that are al
 
 {{% notice style="important" %}}
 
-Today, module owners **MUST** be Microsoft FTEs. This is to ensure that within AVM the long-term support for each module can be upheld and honoured.
+Today, module owners **MUST** be Microsoft FTEs. This is to ensure that within HVM the long-term support for each module can be upheld and honoured.
 
 {{% /notice %}}
 
@@ -74,13 +74,13 @@ GitHub Teams:
 
 The Azure Bicep & Terraform Product Groups are responsible for:
 
-- Backup/Additional support for orphaned modules to the AVM Core Team
-- Providing inputs and feedback on AVM
-- Taking on feedback and feature requests on their products, Bicep & Terraform, from AVM usage
+- Backup/Additional support for orphaned modules to the HVM Core Team
+- Providing inputs and feedback on HVM
+- Taking on feedback and feature requests on their products, Bicep & Terraform, from HVM usage
 
 {{% notice style="note" %}}
 
-We are investigating working with all Azure Product Groups as a future investment area that they take on ownership, or contribute to, the AVM modules for their service/product.
+We are investigating working with all Azure Product Groups as a future investment area that they take on ownership, or contribute to, the HVM modules for their service/product.
 
 {{% /notice %}}
 
@@ -98,14 +98,14 @@ We are investigating working with all Azure Product Groups as a future investmen
 
 {{% /notice %}}
 
-The below table defines a RACI that is proposed to be adopted by AVM and all parties referenced in the table. This will give consumers faith and trust in these modules so that they can consume and contribute to the initiative at scale.
+The below table defines a RACI that is proposed to be adopted by HVM and all parties referenced in the table. This will give consumers faith and trust in these modules so that they can consume and contribute to the initiative at scale.
 
-| Action/Task/Responsibility                                                                       | Module Owners | Module Contributors | AVM Core Team | Product Groups | Notes |
+| Action/Task/Responsibility                                                                       | Module Owners | Module Contributors | HVM Core Team | Product Groups | Notes |
 | ------------------------------------------------------------------------------------------------ | ------------- | ------------------- | ------------- | -------------- | ----- |
-| Build/Construct an AVM Module                                                                    | R, A          | R, C                | C, I          | I              |       |
-| Publish a Bicep AVM Module to the Bicep Public Registry                                          | R, A          | C, I                | C, I          | I              |       |
-| Publish a Terraform AVM Module to the Terraform Registry                                         | R, A          | C, I                | C, I          | I              |       |
+| Build/Construct an HVM Module                                                                    | R, A          | R, C                | C, I          | I              |       |
+| Publish a Bicep HVM Module to the Bicep Public Registry                                          | R, A          | C, I                | C, I          | I              |       |
+| Publish a Terraform HVM Module to the Terraform Registry                                         | R, A          | C, I                | C, I          | I              |       |
 | Manage and maintain tooling/testing frameworks pertaining to module quality                      | C, I          | C, I                | R, A          | C, I           |       |
-| Manage/run the AVM central backlog (module proposals, orphaned modules, test enhancements, etc.) | C, I          | C, I                | R, A          | C, I           |       |
+| Manage/run the HVM central backlog (module proposals, orphaned modules, test enhancements, etc.) | C, I          | C, I                | R, A          | C, I           |       |
 | Provide day-to-day (BAU) module support                                                          | R, A          | R, C                | I             | I              |       |
 | Provide security fixes for orphaned modules                                                      | N/A           | N/A                 | R, A          | R, C, I        |       |

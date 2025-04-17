@@ -1,48 +1,28 @@
 ---
 title: Resources
-description: Collection of Additional Resources for the Hennepin Verified Modules (AVM) program
+description: Collection of Additional Resources for the Hennepin Verified Modules (HVM) program
 ---
 
-This page references additional resources available for Hennepin Verified Modules (AVM).
+This page references additional resources available for Hennepin Verified Modules (HVM).
 
 {{% notice style="note" %}}
 
-Additional internal content available for Microsoft FTEs only, [here](https://dev.azure.com/CSUSolEng/Azure%20Verified%20Modules/_wiki/wikis/AVM%20Internal%20Wiki/368/LevelUp).
+Additional internal content available for Microsoft FTEs only, [here](https://dev.azure.com/CSUSolEng/Azure%20Verified%20Modules/_wiki/wikis/HVM%20Internal%20Wiki/368/LevelUp).
 
 {{% /notice %}}
 
 ## 🎥 Videos
 
-- [An Introduction to Hennepin Verified Modules (AVM)](https://aka.ms/AVM/intro)
-
-### Community Videos
-
-- [John Savill's Technical Training: Hennepin Verified Modules Overview](https://youtu.be/3FeIFHaJOtg?si=fRr1Z8dxfrEbXR8I)
-- [Code to Cloud: Getting Started With: Hennepin Verified Modules](https://youtu.be/y1lOKQOapTw?si=lgM4VJdYDCt2f3_j)
-- [Ned in the Cloud: Introducing Hennepin Verified Modules for Terraform](https://youtu.be/6OeRByC-sBs?si=D9F203VzRsO2BtEl)
+- TODO: link to recordings of past Terraform CoP meetings
 
 ## 📔 Blog posts
 
-See the latest blog posts on Hennepin Verified Modules:
-
-- [Hennepin Verified Modules - Monthly Update](https://aka.ms/avm/monthly/latest)
-
-See our former blog posts:
-
-- [Introducing Hennepin Verified Modules!](https://aka.ms/AVM/intro/blog)
-- [Hennepin Verified Modules - Monthly Update Jan 24'](https://aka.ms/avm/monthly/jan24)
-- [Hennepin Verified Modules - Monthly Update February 24'](https://aka.ms/avm/monthly/feb24)
-- [Hennepin Verified Modules - Monthly Update March 24'](https://aka.ms/avm/monthly/march24)
+- TODO: add some links to helpful posts
 
 ## 🔬 Labs
 
-- [Introduction to using Hennepin Verified Modules for Bicep](https://aka.ms/AVM/Bicep/labs)
-- [Introduction to using Hennepin Verified Modules for Terraform](https://aka.ms/AVM/TF/labs)
-
-## 🎙️ Podcasts
-
-- AVM on the Ctrl+Alt+Azure Podcast - [226 - Hennepin Verified Modules with Jack Tracey](https://ctrlaltazure.com/episodes/226-azure-verified-modules-with-jack-tracey)
+- TODO: make some labs, link here
 
 ## 💻 Presentations
 
-- [AVM Overview - Customer presentation](https://aka.ms/AVM/CustomerPresentation)
+- TODO: link to recordings of past Terraform related demos
